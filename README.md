@@ -8,23 +8,23 @@
 
 ⚙️Language and Tools:
 
-**Programming languages: Python, SQL
+~ Programming languages: Python, SQL
 
-Data Visualization: Matplotlib, seaborn, Plotly, PowerBI, Excel
+~ Data Visualization: Matplotlib, seaborn, Plotly, PowerBI, Excel
 
-Data Munipulation and Analysis: Pandas, Numpy, EDA
+~ Data Munipulation and Analysis: Pandas, Numpy, EDA
 
-Database Management: MySQL, PostgreSQL, MongoDB
+~ Database Management: MySQL, PostgreSQL, MongoDB
 
-Machine Learning: Supervised & Unsupervised Learning
+~ Machine Learning: Supervised & Unsupervised Learning
 
-Deep Learning: Pytorch
+~ Deep Learning: Pytorch
 
-Ml Framework: Scikit-learn
+~ Ml Framework: Scikit-learn
 
-Natural Language Processing: Text Processing, Feature Extraction.**
+~ Natural Language Processing: Text Processing, Feature Extraction.
 
--
+
 
 <!---
 akash25600/akash25600 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
