@@ -1,23 +1,21 @@
-- 👋 Hi Techies, I’m Akash P
+-** 👋 Hi Techies, I’m Akash P**
 - A Passionate 📊 Data Science and 💻 Machine Learning Aspirant from Tamil Nadu,India.📍
-Coding
 
-⌛On Progress:
-👨🏻‍💻 I’m currently learning Natural Language Processing (NLP) and Deep Learning
-⚙️Languages and Tools:
-Python (Pandas,NumPy,Matplotlib,Seaborn)
-MYSQL
-Machine Learning (Scikit-Learn)
-Deep learning (Tensor flow)
-Natural Language Processing (NLP)
-Excel
-Power BI
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+**⌛On Progress:**
+
+👨🏻‍💻 I’m currently learning Django
+**⚙️Languages and Tools:**
+**Programming Languages:** (Python, SQL) 
+**DataVisualization:** (Matplotlib, Seaborn, Plotly(Python), PowerBI, Excel)
+**Data Manipulation and Analysis:** (Pandas, NumPy, EDA)
+**Statistical Analysis:** (Hypothesis testing) 
+**Database Management:** (MySQL, PostgreSQL, MongoDB)
+**Machine Learning:** (Supervised & Unsupervised Learning)
+**Deep Learning:** (Pytorch)
+**ML Framework:** (Sci-Kit learn)
+**Natural Languaage Processing:** (Text Processing, Feature Extraction)
+-
 
 <!---
 akash25600/akash25600 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
