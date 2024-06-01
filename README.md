@@ -1,12 +1,12 @@
--** 👋 Hi Techies, I’m Akash P**
+-👋 Hi Techies, I’m Akash P
 - A Passionate 📊 Data Science and 💻 Machine Learning Aspirant from Tamil Nadu,India.📍
 
 
-**⌛On Progress:**
+⌛On Progress:
 
 👨🏻‍💻 I’m currently learning Django
-**⚙️Languages and Tools:**
-**Programming Languages:** (Python, SQL) 
+⚙️Languages and Tools:
+ Programming Languages: (Python, SQL) 
 **DataVisualization:** (Matplotlib, Seaborn, Plotly(Python), PowerBI, Excel)
 **Data Manipulation and Analysis:** (Pandas, NumPy, EDA)
 **Statistical Analysis:** (Hypothesis testing) 
@@ -14,7 +14,7 @@
 **Machine Learning:** (Supervised & Unsupervised Learning)
 **Deep Learning:** (Pytorch)
 **ML Framework:** (Sci-Kit learn)
-**Natural Languaage Processing:** (Text Processing, Feature Extraction)
+**Natural Languaage Processing:** (Text Processing, Feature Extraction)**
 -
 
 <!---
