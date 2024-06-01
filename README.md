@@ -8,7 +8,7 @@
 
 ⚙️Language and Tools:
 
-Programming languages: Python, SQL
+**Programming languages: Python, SQL
 
 Data Visualization: Matplotlib, seaborn, Plotly, PowerBI, Excel
 
@@ -22,7 +22,7 @@ Deep Learning: Pytorch
 
 Ml Framework: Scikit-learn
 
-Natural Language Processing: Text Processing, Feature Extraction.
+Natural Language Processing: Text Processing, Feature Extraction.**
 
 -
 
