@@ -5,14 +5,23 @@
 ⌛On Progress:
 
 👨🏻‍💻 I’m currently learning Django,
+
 ⚙️Language and Tools:
+
 Programming languages: Python, SQL
+
 Data Visualization: Matplotlib, seaborn, Plotly, PowerBI, Excel
+
 Data Munipulation and Analysis: Pandas, Numpy, EDA
+
 Database Management: MySQL, PostgreSQL, MongoDB
+
 Machine Learning: Supervised & Unsupervised Learning
+
 Deep Learning: Pytorch
+
 Ml Framework: Scikit-learn
+
 Natural Language Processing: Text Processing, Feature Extraction.
 
 -
