@@ -4,17 +4,17 @@
 
 ⌛On Progress:
 
-👨🏻‍💻 I’m currently learning Django
-⚙️Languages and Tools:
- Programming Languages: (Python, SQL) 
-**DataVisualization:** (Matplotlib, Seaborn, Plotly(Python), PowerBI, Excel)
-**Data Manipulation and Analysis:** (Pandas, NumPy, EDA)
-**Statistical Analysis:** (Hypothesis testing) 
-**Database Management:** (MySQL, PostgreSQL, MongoDB)
-**Machine Learning:** (Supervised & Unsupervised Learning)
-**Deep Learning:** (Pytorch)
-**ML Framework:** (Sci-Kit learn)
-**Natural Languaage Processing:** (Text Processing, Feature Extraction)**
+👨🏻‍💻 I’m currently learning Django,
+⚙️Language and Tools:
+Programming languages: Python, SQL
+Data Visualization: Matplotlib, seaborn, Plotly, PowerBI, Excel
+Data Munipulation and Analysis: Pandas, Numpy, EDA
+Database Management: MySQL, PostgreSQL, MongoDB
+Machine Learning: Supervised & Unsupervised Learning
+Deep Learning: Pytorch
+Ml Framework: Scikit-learn
+Natural Language Processing: Text Processing, Feature Extraction.
+
 -
 
 <!---
